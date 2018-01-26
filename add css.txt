@@ -1,0 +1,40 @@
+.rest-logo-section{
+	width:150px;
+	height:150px;
+
+}
+.btn-search {
+	  background: #424242;
+	  border-radius: 0;
+	  color: #fff;
+	  border-width: 1px;
+	  border-style: solid;
+	  border-color: #1c1c1c;
+	}
+	.btn-search:link, .btn-search:visited {
+	  color: #fff;
+	}
+	.btn-search:active, .btn-search:hover {
+	  background: #1c1c1c;
+	  color: #fff;
+	}
+	.header-search-fi{
+		background-color:#292c2f;
+		font-size:19px;
+		padding:10px;
+		color:#fff;
+	}
+	.panel-edit{
+		margin-top:70px;
+		
+	}
+.rating-size{
+	width:150px;
+	height:30px;
+}
+.ico-ed{
+	color:red;
+}
+.card-text{
+	font-size:16px;
+}
